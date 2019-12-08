@@ -14,7 +14,7 @@ import java.util.List;
 
 public class MySQLiteHelper extends SQLiteOpenHelper {
     private static final String DATABASE_NAME = "Quiztion.db";
-    private static final int DATABASE_VERSION = 8;
+    private static final int DATABASE_VERSION = 9;
 
     private static MySQLiteHelper instance;
 
